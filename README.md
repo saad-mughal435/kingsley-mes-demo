@@ -2,11 +2,11 @@
 
 # Kingsley MES / ERP - disconnected demo
 
-**A faithful, sanitised walkthrough of the production MES/ERP system I designed and built at Kingsley Beverage FZCO.**
+**A disconnected, fabricated-data demo of the MES/ERP frontend I designed and built at Kingsley Beverage FZCO - published with their permission.**
 
 [![Live](https://img.shields.io/badge/live-saadm.dev%2Fapp%2F-7c9cff?style=for-the-badge)](https://saadm.dev/app/)
 [![Portfolio](https://img.shields.io/badge/portfolio-saadm.dev-5eead4?style=for-the-badge)](https://saadm.dev/)
-[![License](https://img.shields.io/badge/license-MIT-c4b5fd?style=for-the-badge)](../LICENSE)
+[![License](https://img.shields.io/badge/license-notice-c4b5fd?style=for-the-badge)](../LICENSE)
 
 </div>
 
@@ -81,7 +81,7 @@ Updates flow from there via `git subtree split`. PRs are welcome at either repo.
 
 ## License
 
-[MIT](LICENSE). All data, customers, recipes, batch numbers, and document contents are fabricated for demonstration. The real production system source remains private.
+Published with Kingsley Beverage FZCO's permission for portfolio demonstration - see [LICENSE](LICENSE); this code is not licensed for reuse. All data, customers, recipes, batch numbers, and document contents are fabricated. The real production system source remains private.
 
 ---
 
