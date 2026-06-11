@@ -15,7 +15,7 @@
 
 A **disconnected, in-browser** version of the manufacturing-floor MES / ERP system I built - production planning, inventory, quality control, OEE monitoring, accounts, Sage integration, and 6 print-ready PDF templates. The full application runs in your browser with a `fetch`-interceptor returning fabricated demo data; the actual production code (`_kingsley_private_DO_NOT_PUBLISH/`) is intentionally not in this repo.
 
-Built solo as Automation Engineer / ERP Developer / IT Administrator at Kingsley Beverage FZCO, Dubai.
+Built solo as Automation Engineer / ERP Developer / IT Administrator at Kingsley Beverage FZCO, Dubai. The underlying platform has been in production at the plant since 2025.
 
 ## Quick links
 
