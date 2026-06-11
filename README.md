@@ -6,7 +6,6 @@
 
 [![Live](https://img.shields.io/badge/live-saadm.dev%2Fapp%2F-7c9cff?style=for-the-badge)](https://saadm.dev/app/)
 [![Portfolio](https://img.shields.io/badge/portfolio-saadm.dev-5eead4?style=for-the-badge)](https://saadm.dev/)
-[![License](https://img.shields.io/badge/license-notice-c4b5fd?style=for-the-badge)](../LICENSE)
 
 </div>
 
@@ -77,11 +76,11 @@ This repository is a **mirror** of `site/app/` from the main portfolio repo, spl
 
 📦 **[saad-mughal435/site](https://github.com/saad-mughal435/site)** (under `app/`)
 
-Updates flow from there via `git subtree split`. PRs are welcome at either repo.
+Updates flow from there via `git subtree split`.
 
-## License
+## Notice
 
-Published with Kingsley Beverage FZCO's permission for portfolio demonstration - see [LICENSE](LICENSE); this code is not licensed for reuse. All data, customers, recipes, batch numbers, and document contents are fabricated. The real production system source remains private.
+Frontend demo published with Kingsley Beverage FZCO's permission, for portfolio demonstration only. Not licensed for reuse - all rights reserved by Kingsley Beverage FZCO. All data, customers, recipes, batch numbers, and document contents are fabricated. The real production system source remains private.
 
 ---
 
